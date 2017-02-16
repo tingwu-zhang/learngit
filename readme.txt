@@ -1,2 +1,2 @@
 git is a distributed version control system
-git is free sortware
+git is free sortware distributed under GPL
