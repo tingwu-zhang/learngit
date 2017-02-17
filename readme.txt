@@ -4,3 +4,4 @@ git  has a mutable index called stage
 git tracks changes
 
 create a new branch is quick
+switch to a new branch  'feature1'
